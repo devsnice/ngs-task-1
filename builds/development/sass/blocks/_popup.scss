@@ -1,0 +1,19 @@
+.popup {
+	&--welcome {
+		background: #fff;
+		width: 450px;
+		height: 65px;
+		text-align: center;
+		padding: 20px 40px;
+	}
+	
+	&__close {
+		position: absolute;
+		top: -25px;
+		right: -25px;
+		color: #fff;
+		cursor: pointer;
+		font-size: 40px;
+	}
+	
+}

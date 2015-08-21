@@ -1,0 +1,17 @@
+
+.result {
+	margin-top: 15px;
+	
+	&__wrap {
+		background: #eee;
+		padding: 15px 20px;
+	}
+	
+	&-cell {
+		padding: 0 10px;
+	}
+	
+	&__submit {
+		margin: 15px 0 0;
+	}
+}
